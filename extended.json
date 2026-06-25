@@ -1,0 +1,23 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/primepool/primepool.github.io/blob/main/india_stake_pool_logo_40x40.png?raw=true",
+        "url_png_logo": "https://github.com/primepool/primepool.github.io/blob/main/india_stake_pool_logo.jpg?raw=true",
+        "location": "India",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "Single pool operater serving the Glorious Republic of India. I´m happy to be part of the Cardano network and to support the community",
+            "server": "Hardware powered with green energy. Our equipment currently consists of 1 Block Producer and 2 Relay Nodes. We can guarantee an excellent internet connection. BARE METAL SERVERS"
+        },
+        "telegram-admin-handle": {
+            "0": "dimitri.was.here"
+        }
+    }
+}

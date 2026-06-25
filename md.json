@@ -2,5 +2,6 @@
 "name": "INDIA Stake Pool",
 "description": "Serving the Glorious Republic of India on the Blockchain",
 "ticker": "INDIA",
-"homepage": "https://www.indiastakepool.com"
+"homepage": "https://www.indiastakepool.com",
+"extended": "https://raw.githubusercontent.com/primepool/primepool.github.io/refs/heads/main/extended.json"
 }
